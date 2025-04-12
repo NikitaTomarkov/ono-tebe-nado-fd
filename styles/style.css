@@ -224,6 +224,7 @@ blockquote {
   
   .card_title {
     color: white;
+    padding: 22px 0px 147px;
     font-size: 22px;
     font-weight: 700;
     line-height: 120%;
@@ -234,6 +235,7 @@ blockquote {
   .link_lots { 
     text-decoration: none;
   }
+  
   .text_on_card {
     color: white;
     font-size: 20px;
@@ -241,7 +243,7 @@ blockquote {
     font-weight: 400;
     line-height: 120%; 
   }
-  
+
   .view_more {
     display: block;
     text-underline-offset: 3px;
