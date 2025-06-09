@@ -85,7 +85,7 @@
     line-height: 115px;
     letter-spacing: 30px;
     gap: 20px;
-    padding: 165px 30px 100px 50px;
+    padding: 164px 23px 103px 50px;
     z-index: 2;
   } 
   
@@ -105,7 +105,7 @@
     display: flex;
     align-items: baseline;
     justify-content: space-evenly;
-    padding: 11px 50px 50px 50px;
+    padding: 1px 47px 50px 50px;
     gap: 110px;
   }
   
@@ -226,7 +226,7 @@
     display: grid;
     grid-template-columns: 334px repeat(1, 1fr);
     gap: 25px;
-    padding: 34px 24px 0px;
+    padding: 14px 23px 0px;
   }
   
   .about_logo {
